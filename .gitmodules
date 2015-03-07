@@ -1,0 +1,3 @@
+[submodule "web_cam_app"]
+	path = web_cam_app
+	url = git@github.com:ralphtandetzky/web_cam_app.git
